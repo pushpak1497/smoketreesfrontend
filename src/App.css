@@ -1,0 +1,32 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input-container {
+  margin: 10px 0px;
+}
+.label {
+  font-family: "Roboto";
+}
+.button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #e7890d;
+  border: none;
+  border-radius: 10px;
+}
+.input {
+  padding: 8px;
+  margin-left: 15px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.address {
+  margin-left: 0px;
+}
